@@ -26,5 +26,5 @@ An intelligent, autonomous system resource optimization framework built with Pyt
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Project-Genesis-Resource-Optimizer.git](https://github.com/YOUR_USERNAME/Project-Genesis-Resource-Optimizer.git)
+   git clone [https://github.com/ronaakter12346i-design/Project-Genesis-Resource-Optimizer.git](https://github.com/ronaakter12346i-design/Project-Genesis-Resource-Optimizer.git)
    cd Project-Genesis-Resource-Optimizer
